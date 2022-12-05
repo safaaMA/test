@@ -1,18 +1,26 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-.container{
+
+.container {
     text-align: center;
     padding-top: 20px;
 }
-.safaa{
+
+.safaa {
     color: blueviolet;
 }
-.mustafa{
+
+.mustafa {
     color: #0797a1;
 }
-.aisha{
+
+.aisha {
     color: #e7545c;
+}
+
+.Rana {
+    color: blue;
 }
